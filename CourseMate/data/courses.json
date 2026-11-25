@@ -1,0 +1,18 @@
+
+{
+    "CSE-1101": {
+        "name": "Introduction to Programming",
+        "prerequisites": []
+    },
+    "MATH-1103": {
+        "name": "Calculus",
+        "prerequisites": []
+    },
+    "CSE-2101": {
+        "name": "Data Structures",
+        "prerequisites": [
+            "CSE-1101",
+            "MATH-1103"
+        ]
+    }
+}

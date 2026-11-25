@@ -1,0 +1,16 @@
+
+{
+    "S-014": {
+        "name": "Rahim",
+        "completed_courses": [
+            "CSE-1101"
+        ]
+    },
+    "S-015": {
+        "name": "Karim",
+        "completed_courses": [
+            "CSE-1101",
+            "MATH-1103"
+        ]
+    }
+}
